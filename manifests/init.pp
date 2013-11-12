@@ -6,6 +6,6 @@
 class xquartz {
   package { 'XQuartz':
     provider => 'pkgdmg',
-    source   => 'http://xquartz.macosforge.org/downloads/SL/XQuartz-2.7.5.dmg',
+    source   => 'http://thammuz.tchpc.tcd.ie/mirrors/static.macosforge.org/SL/XQuartz-2.7.4.dmg',
   }
 }
